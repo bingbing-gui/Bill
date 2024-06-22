@@ -1,7 +1,9 @@
 # 你好，欢迎来到我的 GitHub 主页！
 
 我是 桂兵兵，一名热衷于 .NET 的开发者。我喜欢编写干净、可维护的代码，并且不断学习和探索新技术。
+
 ![Microsoft MVP](https://github.com/bingbing-gui/bingbing-gui/blob/main/240299092-54fa48c3-eaa1-470c-8080-71f3e2c68271.png) 
+
 ## 🔭 当前正在进行的项目
 - **[dotnet-guide](https://github.com/bingbing-gui/dotnet-guide)**: 这个仓库主要描述.NET能做什么？以及.NET的生态库
 - **[AspNetCore-Skill](https://github.com/bingbing-gui/AspNetCore-Skill)**: 这个仓库主要描述了Asp.Net Core整个知识体系，可谓是学习Asp.Net Core必备宝典
