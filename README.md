@@ -20,6 +20,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bingbing-gui&count_private=true&show_icons=true&theme=tokyonight)
 
-=
 ## 🌐 社交媒体
 [![LinkedIn](https://www.linkedin.com/in/%E5%85%B5%E5%85%B5-%E6%A1%82-399685235/)
