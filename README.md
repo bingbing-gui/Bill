@@ -1,5 +1,3 @@
-### I'm Microsoft MVP in .NET [![MVP](https://raw.githubusercontent.com/bingbing-gui/bingbing-gui/main/240299092-54fa48c3-eaa1-470c-8080-71f3e2c68271.png)]([https://mvp.microsoft.com/en-US/mvp/profile/1bb7008e-0411-486f-9a4a-c4d621b9f731])
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
